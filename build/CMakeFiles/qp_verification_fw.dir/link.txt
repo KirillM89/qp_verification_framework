@@ -1,0 +1,1 @@
+/mingw64/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/qp_verification_fw.dir/src/main.cpp.o -o qp_verification_fw.exe -Wl,--out-implib,libqp_verification_fw.dll.a -Wl,--major-image-version,0,--minor-image-version,0

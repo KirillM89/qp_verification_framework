@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\qp_verification_fw.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\qp_verification_fw.dir/objects.a @CMakeFiles\qp_verification_fw.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\qp_verification_fw.dir/objects.a -Wl,--no-whole-archive -o qp_verification_fw.exe -Wl,--out-implib,libqp_verification_fw.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\qp_verification_fw.dir\linkLibs.rsp

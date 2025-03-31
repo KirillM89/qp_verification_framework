@@ -1,0 +1,3 @@
+[submodule "nnls_based_qp_solver"]
+	path = nnls_based_qp_solver
+	url = https://github.com/KirillM89/nnls_based_qp_solver.git
